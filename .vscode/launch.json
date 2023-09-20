@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/cheneyyoon/Desktop/2nd year winter term/ECE 243/game project",
+      "program": "/Users/cheneyyoon/Desktop/2nd year winter term/ECE 243/game project/build/Debug/outDebug"
+    }
+  ]
+}
